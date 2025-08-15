@@ -4,3 +4,4 @@ Prédiction d'un resultat à l'aide de données en CSV avec les algorithmes CART
 
 (Pour changer de méthode de calcul, cliquer sur continuer et resaisir les données)
 
+Executer vue.py en utilisant par exemple les fichiers csv présents
